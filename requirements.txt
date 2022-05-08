@@ -1,4 +1,5 @@
 gunicorn
-django
+django==3.2
+psycopg2
 Martor
 djangorestframework
